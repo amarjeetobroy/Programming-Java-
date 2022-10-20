@@ -1,12 +1,14 @@
 /*
-Enter size:                                                                                                    5                                                                                                              enter number:
-25 65 98 65 36 56
+Enter size:
+5
+enter number:
+56 23 56 89 45
 your ans:
-25
-65
-98
-65
-36
+56
+23
+56
+89
+45
 */
 
 import java.util.Scanner;
