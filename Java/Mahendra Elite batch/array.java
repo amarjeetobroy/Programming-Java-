@@ -16,7 +16,6 @@ public class Main
 		System.out.print("Your Ans: "+p);
 	}
 }
-
 /* Output
 Enter size
 3
